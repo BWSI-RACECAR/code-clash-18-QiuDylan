@@ -51,7 +51,7 @@ class Solution:
             return True
         if cost.isdigit():
             return int(cost) <= x
-        return False 
+        else: return False 
 
 
 
